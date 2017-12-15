@@ -33,14 +33,22 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 [7)  Block Code, Language-specific](#section-g)  
 [8)  Tables](#section-h)  
 [References](#section-r)
+[Test](#section-T)
 
 ---
 
-## <a name="section-a"></a>1) Line Breaks 
+## <a name="section-a"></a>1) Line Breaks
 
 **How to add line breaks:**  
 1.  add two spaces to end of line**   
-2.  enclose text in triple back quotes 
+2.  enclose text in triple back quotes
+
+**Jon's attempt**
+Lorem ipsum dolor sit amet  
+Lorem ipsum dolor sit amet (break?)
+
+Lorem ipsum dolor sit amet
+Lorem ipsum dolor sit amet (no break?)
 
 ---
 
@@ -52,18 +60,18 @@ italic:  `_italic_` _italic_
 
 ---
 
-## <a name="section-c"></a>3) Referencing Other Markdown Files 
+## <a name="section-c"></a>3) Referencing Other Markdown Files
 
 In a markdown file on GitHub, to see how it was formatted, click on "raw" on upper right corner.
 
 ---
 
-## <a name="section-d"></a>4) Horizontal Rules 
+## <a name="section-d"></a>4) Horizontal Rules
 
 Code for line separators:  
 
 ```
-Rule #1 
+Rule #1
 ---
 Rule #2
 *******
@@ -83,7 +91,7 @@ Rule #3
 ___
 
 
-## <a name="section-e"></a>5) Emoji's 
+## <a name="section-e"></a>5) Emoji's
 
 Code for emoji's:
 ```
@@ -95,10 +103,10 @@ Rendered emoji's:
 :fireworks:  
 :smiley:  
 :watermelon:  
- 
+
 ---
 
-## <a name="section-f"></a>6) Links 
+## <a name="section-f"></a>6) Links
 
 Text for link:  
 ```Here's an inline link to [Google](http://www.google.com/).```  
@@ -107,7 +115,7 @@ Here's an inline link to [Google](http://www.google.com/).
 
 ---
 
-## <a name="section-g"></a>7) Block Code, Language-specific 
+## <a name="section-g"></a>7) Block Code, Language-specific
 
 #### python
 
@@ -151,11 +159,11 @@ Block code that is **sql**-specific:
 SELECT * FROM Customers WHERE Country='Sweden';
 ```
 
-#### Yes, this works for scores of other languages:  [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown) 
+#### Yes, this works for scores of other languages:  [Syntax highlighting in markdown](https://support.codebasehq.com/articles/tips-tricks/syntax-highlighting-in-markdown)
 
 ---
 
-## <a name="section-h"></a>8) Tables 
+## <a name="section-h"></a>8) Tables
 
 ```
 First Header | Second Header
@@ -171,6 +179,10 @@ Content in the first column | Content in the second column
 
 ---
 
-## <a name="section-r"></a>References 
+## <a name="section-r"></a>References
 
 [Markdown Help](http://mathoverflow.net/editing-help)
+
+## <a name="section-T"></a>Test
+
+[This is a link to Wikipedia!](http://en.wikipedia.org/)
