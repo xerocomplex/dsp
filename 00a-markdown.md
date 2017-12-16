@@ -32,7 +32,7 @@ Markdown is a simple way to add formatting — like headers, bold/italic text, a
 [6)  Links](#section-f)  
 [7)  Block Code, Language-specific](#section-g)  
 [8)  Tables](#section-h)  
-[References](#section-r)
+[References](#section-r)  
 [Test](#section-T)
 
 ---
