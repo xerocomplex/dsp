@@ -74,4 +74,4 @@ What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emo
 
 Let's repeat that image above! For fun.  
 
-![commit](img/commit_file.png)
+![commit](img/commit_file.png)  
