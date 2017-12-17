@@ -49,7 +49,8 @@ However, this is completely optional as Anaconda is an all-in-one package manage
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+>> I have python2 installed by default by macOS, and I Installed  
+>> python3 when I installed anaconda.
 
 ### Q2. Which Python Version Installed   
 
@@ -57,8 +58,4 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
-
- 
-
-
+>> python3.6
