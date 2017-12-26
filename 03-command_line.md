@@ -53,7 +53,7 @@ What do the following commands do:
 > > ls -lh - same as above, but gives suffixes for file sizes (B, K, M, G, etc)  
 > > ls -lah - combines -lh with -a options  
 > > ls -t - sorts by time modified, with most recently modified first  
-> > ls -Glp - colorized output, long format, shows '/' if file is dir  
+> > ls -Glp - colorized output, long format, shows '/' if file is dir   
 
 ---
 
@@ -61,8 +61,12 @@ What do the following commands do:
 
 Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) and pick 5 of your favorites:
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
-
+> > ls -Ral, for crashing your terminal :P    
+> > ls -1, because it's nice to change views  
+> > ls -a, because I don't like things hidden from me  
+> > ls -m, because I give a [damn] about an oxford comma  
+> > ls -F, because it's good to see what you're dealing with  
+> > plenty of combinations of the above!  
 ---
 
 ### Q4.  Xargs   
