@@ -25,7 +25,7 @@ Make a cheat sheet for yourself: a list of at least **ten** commands and what th
 > > rmdir - delete a directory, rm -d also works, rm -r will remove directories
 > > that are not empty!  
 > > touch <filename> - creates a new file  
-> > rm - removes a file
+> > rm - removes a file  
 > > mv - rename file, or move file to new file in a new directory   
 > > ls -a - lists all files, even those with . prefixes  
 > > cp - copy a files  
