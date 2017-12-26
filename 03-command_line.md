@@ -47,13 +47,13 @@ What do the following commands do:
 `ls -t`  
 `ls -Glp`  
 
-> > ls - lists non-hidden files in the current directory
-> > ls -a - lists ALL files, including hidden ones
-> > ls -l - lists all files in long format, with expanded information
-> > ls -lh - same as above, but gives suffixes for file sizes (B, K, M, G, etc)
-> > ls -lah - combines -lh with -a options
-> > ls -t - sorts by time modified, with most recently modified first
-> > ls -Glp - colorized output, long format, shows '/' if file is dir
+> > ls - lists non-hidden files in the current directory  
+> > ls -a - lists ALL files, including hidden ones  
+> > ls -l - lists all files in long format, with expanded information  
+> > ls -lh - same as above, but gives suffixes for file sizes (B, K, M, G, etc)  
+> > ls -lah - combines -lh with -a options  
+> > ls -t - sorts by time modified, with most recently modified first  
+> > ls -Glp - colorized output, long format, shows '/' if file is dir  
 
 ---
 
