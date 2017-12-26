@@ -73,4 +73,5 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 
 What does `xargs` do? Give an example of how to use it.
 
-> > xargs takes arguments
+> > xargs takes arguments piped with an echo command (and separated by
+> > spacces, within quotes) and runs a bash command for each argument.
