@@ -20,7 +20,18 @@ Here's a list of items with which you should be familiar:
 
 Make a cheat sheet for yourself: a list of at least **ten** commands and what they do.  (Use the 8 items above and add a couple of your own.)  
 
-> > REPLACE THIS TEXT WITH YOUR RESPONSE
+> > pwd - print the working directory  
+> > mkdir - create a new directory  
+> > rmdir - delete a directory, rm -d also works, rm -r will remove directories
+> > that are not empty!  
+> > touch <filename> - creates a new file  
+> > mv - rename file, or move file to new file in a new directory   
+> > ls -a - lists all files, even those with . prefixes  
+> > cp - copy a files  
+> > cd - change the working directory  
+> > pushd - push the specified directory onto the directory stack  
+> > popd - remove the last pushed directory from the stack, change to the prev
+> > dir
 
 ---
 
@@ -52,6 +63,3 @@ Explore these other [ls options](http://www.techonthenet.com/unix/basic/ls.php) 
 What does `xargs` do? Give an example of how to use it.
 
 > > REPLACE THIS TEXT WITH YOUR RESPONSE
-
- 
-
